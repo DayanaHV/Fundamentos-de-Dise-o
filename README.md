@@ -1,5 +1,5 @@
 # Fundamentos-de-Dise-o
-2023-0
+ Ciclo 2023-0
 
 Integrantes:
 - CHAVEZ ESPIRITU, JENNIFER ARACELY
